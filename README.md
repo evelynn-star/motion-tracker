@@ -1,2 +1,47 @@
-# motion-tracker
-Real-time hand gesture detection and face tracking using MediaPipe and OpenCV.
+# 🖐️ Motion & Gesture Tracker
+
+> Real-time hand gesture detection and face tracking using Computer Vision  
+> *Educational project by Evelina, 2026*
+
+## 📋 Overview
+
+This Python application uses **MediaPipe** and **OpenCV** to detect and track hand landmarks, recognize gestures, and overlay face mesh in real-time through your webcam. Built while exploring Computer Vision and Human-Computer Interaction concepts.
+
+## ✨ Features
+
+- 👆 **Hand Landmark Detection** — Track 21 key points on each hand
+-  **Gesture Recognition** — Detect finger positions and basic gestures
+- 👤 **Face Mesh Overlay** — Optional 468-point face landmark tracking
+- 🎮 **Interactive Controls** — Keyboard shortcuts for real-time interaction
+- 📊 **Visual Feedback** — Colored markers and connections for clear visualization
+- ⚡ **Real-time Processing** — Optimized for smooth ~30 FPS performance
+
+## 🛠️ Tech Stack
+
+- **Language**: Python 3.10+
+- **Core Libraries**: 
+  - OpenCV (cv2) — Video capture and image processing
+  - MediaPipe — ML-powered hand and face detection
+  - NumPy — Numerical operations and coordinate transformations
+- **Concepts**: 
+  - Landmark detection and tracking
+  - RGB/HSV color space conversion
+  - Real-time video stream processing
+  - Modular object-oriented design
+
+## 🚀 Installation & Setup
+
+### Prerequisites
+- Python 3.10 or higher
+- Webcam
+
+### Step-by-step
+
+1. **Install dependencies**
+   pip install -r requirements.txt
+2. **Run the application**
+   python Detecting_project.py
+   
+
+
+
