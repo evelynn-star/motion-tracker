@@ -41,6 +41,20 @@ This Python application uses **MediaPipe** and **OpenCV** to detect and track ha
    pip install -r requirements.txt
 2. **Run the application**
    python Detecting_project.py
+3. 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| `Q` or `Esc` | Quit the application |
+| `F` | Toggle face mesh tracking ON/OFF |
+| `1` | Track thumb tip (landmark #4) |
+| `2` | Track index finger tip (landmark #8) |
+| `3` | Track middle finger tip (landmark #12) |
+| `4` | Track ring finger tip (landmark #16) |
+| `5` | Track pinky tip (landmark #20) |
+| `Space` | Toggle gesture detection |
+
+
    
 
 
