@@ -52,7 +52,26 @@ This Python application uses **MediaPipe** and **OpenCV** to detect and track ha
 | `3` | Track middle finger tip (landmark #12) |
 | `4` | Track ring finger tip (landmark #16) |
 | `5` | Track pinky tip (landmark #20) |
-| `Space` | Toggle gesture detection |
+| `Space` | Toggle gesture detection 
+
+## 📸 Demo
+
+*Demo GIF coming soon!*
+
+## 👩‍💻 Author
+
+**Evelina**  
+🎓 Aspiring Computer Science student  
+📍 Russia  
+🌱 Currently preparing for university applications
+
+## 📄 License
+
+This project is open source and available for educational purposes. Feel free to use, modify, and learn from it!
+
+---
+
+*Part of my Computer Science portfolio for university applications. Built with ❤️ while learning Computer Vision.
 
 
    
